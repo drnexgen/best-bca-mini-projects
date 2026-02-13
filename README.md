@@ -32,5 +32,5 @@ https://www.drnexgen.com/bca-mini-projects
 
 ## 🔹 Maintained By
 
-**DR NEXGEN**  
+**DR NexGen Pvt Ltd**  
 🌐 https://www.drnexgen.com
